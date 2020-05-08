@@ -1,0 +1,16 @@
+[
+{
+  "modid": "moreupgrade",
+  "name": "More Upgrade",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://twitter.com/FrostBreker",
+  "updateUrl": "https://www.youtube.com/channel/UC_-Zw6qFTcYd5Ka8TGK4M_Q?view_as=subscriber",
+  "authorList": ["FrostBreker"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,32 @@
+item.wood_sword_t1.name=Wooden Sword T1
+item.wood_sword_t2.name=Wooden Sword T2
+item.wood_sword_t3.name=Wooden Sword T3
+item.wood_sword_t4.name=Wooden Sword T4
+item.wood_sword_t5.name=Wooden Sword T5
+
+item.wood_pickaxe_t1.name=Wooden Pickaxe T1
+item.wood_pickaxe_t2.name=Wooden Pickaxe T2
+item.wood_pickaxe_t3.name=Wooden Pickaxe T3
+item.wood_pickaxe_t4.name=Wooden Pickaxe T4
+item.wood_pickaxe_t5.name=Wooden Pickaxe T5
+
+item.wood_axe_t1.name=Wooden Axe T1
+item.wood_axe_t2.name=Wooden Axe T2
+item.wood_axe_t3.name=Wooden Axe T3
+item.wood_axe_t4.name=Wooden Axe T4
+item.wood_axe_t5.name=Wooden Axe T5
+
+item.wood_shovel_t1.name=Wooden Shovel T1
+item.wood_shovel_t2.name=Wooden Shovel T2
+item.wood_shovel_t3.name=Wooden Shovel T3
+item.wood_shovel_t4.name=Wooden Shovel T4
+item.wood_shovel_t5.name=Wooden Shovel T5
+
+item.wood_hoe_t1.name=Wooden Hoe T1
+item.wood_hoe_t2.name=Wooden Hoe T2
+item.wood_hoe_t3.name=Wooden Hoe T3
+item.wood_hoe_t4.name=Wooden Hoe T4
+item.wood_hoe_t5.name=Wooden Hoe T5
+
+
+itemGroup.tabMoreUpgrade=More Upgrade
